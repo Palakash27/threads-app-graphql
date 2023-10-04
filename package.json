@@ -18,6 +18,8 @@
     },
     "devDependencies": {
         "@types/node": "^20.8.2",
+        "prisma": "^5.3.1",
+        "ts-node": "^10.9.1",
         "tsc-watch": "^6.0.4",
         "typescript": "^5.2.2"
     }
